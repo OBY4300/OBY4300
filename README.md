@@ -4,9 +4,11 @@
 - YouTube Kanalıma Buradan Bakabilirsiniz: https://www.youtube.com/@OB_Y4300
 
 Kullandığım diller:
-![Python]
-![Javascript]
-![HTML]
+- Python
+- Javascript
+- HTML
+
+Discord motülü (modülünü) severim.
 
 <!---
 OBY4300/OBY4300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
